@@ -6,11 +6,8 @@
 library("usethis")
 edit_git_config()
 
-
-
 use_git()
-
-
 #this is a new line 
+
 
 
